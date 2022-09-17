@@ -158,7 +158,7 @@ class OpDivision
         {
             payment= unit * 0.20;
         }
-        
+
       else
         {
             payment= (100*0.20)+((unit-100*0.23));
@@ -172,4 +172,11 @@ class OpDivision
 
 ```
 
+
+
+
+
+#### Example
+
+Look into this [file](https://github.com/Nurunnajwa12/Java-Beginner-Note/blob/main/passfaildual.java) for more information about selection control structure.
 
